@@ -1,0 +1,65 @@
+.mb-50 {
+  margin-bottom: 50px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+#form-control-banner {
+  border-radius: 300px 0 0 300px;
+  padding-left: 20px;
+}
+
+#quer-assinar {
+    background: url(../img/quer-assinar.jpeg) center top;
+    background-size: cover;
+    h3 {
+        margin-bottom: 60px;
+    }
+}
+
+#support {
+    background: url(../img/time-happy.jpg) center center;
+    background-size: cover;
+    h2 {
+        margin-bottom: 60px;
+    }
+}
+
+.price-signature {
+    font-size: 40px;
+    .parcelas {
+        font-size: 20px;
+        margin-right: 6px;
+    }
+    .cents {
+        font-size: 20px;
+        position: relative;
+        top: -13px;
+        margin-left: 4px;
+    }
+}
+
+footer {
+    padding: 40px 0;
+}
+
+.navbar-brand img {
+    width: 290px;
+}
+
+.logo-blue {
+    display: none;
+}
+
+.navbar-shrink .logo-white {
+    display: none;
+}
+
+.navbar-shrink .logo-blue {
+    display: inline;
+}
